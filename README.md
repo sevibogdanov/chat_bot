@@ -1,4 +1,5 @@
 # chat_bot
 # https://t.me/vm_bot_chat_bot
 Описание схемы работы чат-бота
-![image](https://github.com/sevibogdanov/chat_bot/assets/130535023/e380de8e-2730-4a39-b664-a7991ac916c4)
+
+![vm_pub](https://github.com/sevibogdanov/chat_bot/assets/130535023/8dcdb3b7-704b-42cb-b36a-1284d0deee36)
